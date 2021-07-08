@@ -261,7 +261,7 @@ html, body {
   border-radius: 0.13em;
 }
 
-.contact-form form .submit {
+.contact-form form a {
   margin-left: 43.15%;
   width: 40.3%;
   padding-top: 10px;
@@ -273,20 +273,20 @@ html, body {
   border-radius: 0.13em;
   background-color: #5dca88;
   cursor: pointer;
+  text-decoration: none;
+  text-align: center;
   -webkit-box-shadow: 0 3.5px #1a7940;
           box-shadow: 0 3.5px #1a7940;
 }
 
-.contact-form form .submit:active {
+.contact-form form a:active {
   position: relative;
   top: 7px;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
 
-.contact-form form .submit a {
-  text-decoration: none;
-}
+
 
 section {
   margin-top: 30px;
