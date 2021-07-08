@@ -407,5 +407,11 @@ footer .copyright {
     width: 100px;
     z-index: 6;
   }
+  .contact-form h1 {
+    font-size: 24px;
+  }
+  .contact-form form div label {
+    font-size: 13px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
